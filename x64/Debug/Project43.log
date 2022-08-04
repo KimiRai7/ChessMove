@@ -1,0 +1,3 @@
+﻿  Źródło.cpp
+C:\Users\janek\Documents\Visual Studio 2022\Projects\Project43\Project43\Źródło.cpp(90,9): warning C4101: "j": lokalna zmienna, do której nie istnieje odwołanie
+  Project43.vcxproj -> C:\Users\janek\Documents\Visual Studio 2022\Projects\Project43\x64\Debug\Project43.exe
